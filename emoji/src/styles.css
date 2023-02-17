@@ -1,0 +1,19 @@
+.container{
+    /* background-color: red; */
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 2rem;
+ 
+}
+
+input{
+    width: 210px;
+    height: 65px;
+}
+
+/* h2, h3{
+    padding-top: 1rem;
+    margin: auto;
+    text-align: center;
+    
+} */
